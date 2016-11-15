@@ -1,8 +1,8 @@
-# AzureSearchRestAPISample
+# What is AzureSearchRestAPISample?
 This REST API sample for Azure Search have below feacture.
 - Get an Indexer status
 
-## Use this sample at Azure Function
+## If you use this sample at Azure Function
 Please reference below files. 
 ### run.csx 
 ```csharp:run.csx
